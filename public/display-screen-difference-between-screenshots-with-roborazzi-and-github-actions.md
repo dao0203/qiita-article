@@ -2,7 +2,7 @@
 title: roborazziで取得したスクリーンショットをPRにて表示する
 tags:
   - Android
-  - Github Actions
+  - GitHub Actions
   - Roborazzi
 private: false
 updated_at: ''
@@ -13,8 +13,8 @@ ignorePublish: false
 ---
 # はじめに
 こんにちは、こんばんは、佐藤佑哉です。
-今日もAndroidの開発〜やっていきます。
+本日は、Androidアプリ開発で使用されるRoborazziを用いて、画面の差分をPRのコメントに表示するをGitHubActionsで実現していきたいと思います。
 ## 本記事の動機
-前回投稿したroborazziでのスクリーンショットの方なのですが、現在は、これからの作業について教えてください
+前回投稿したroborazziでのスクリーンショットの方なのですが、
 ## 紹介すること
 ## まとめ
