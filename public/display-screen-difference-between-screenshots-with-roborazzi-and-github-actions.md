@@ -6,7 +6,7 @@ tags:
   - GitHubActions
   - Roborazzi
 private: false
-updated_at: '2024-02-24T02:24:04+09:00'
+updated_at: '2024-02-24T02:28:42+09:00'
 id: afebaeb10af0219e29a0
 organization_url_name: null
 slide: false
