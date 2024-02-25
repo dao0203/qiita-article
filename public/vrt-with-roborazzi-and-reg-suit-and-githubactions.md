@@ -1,14 +1,14 @@
 ---
-title: reg-suitとroborazziでVRTを行い、差分をPRに表示する
+title: reg-suitとroborazziを使用してVRTを行い、差分をPRに表示する
 tags:
   - Android
-  - GitHub Actions
-  - Roborazzi
-  - Reg-suit
+  - GitHubActions
+  - reg-suit
   - VRT
+  - Roborazzi
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-02-26T01:22:10+09:00'
+id: 6709667949d97abdf39f
 organization_url_name: null
 slide: false
 ignorePublish: false
