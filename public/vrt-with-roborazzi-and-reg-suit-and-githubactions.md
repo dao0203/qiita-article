@@ -1,5 +1,5 @@
 ---
-title: reg-suitとroborazziとGitHubActionsを用いてVRTを行い、その結果をPRに表示する方法
+title: reg-suitとroborazziでVRTを行い、差分をPRに表示する
 tags:
   - Android
   - GitHub Actions
